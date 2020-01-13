@@ -1,8 +1,8 @@
 {
-  "name": "vue-iframe-message",
-  "version": "0.0.3",
+  "name": "spms.vue-iframe-message",
+  "version": "0.0.1",
   "description": "window.onmessage事件监听",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "rollup -c",
     "release": "npm run build && npm publish"
@@ -12,12 +12,11 @@
     "iframe",
     "postmessage"
   ],
-  "man": "dist/index.js",
-  "author": "51594176@qq.com",
-  "homepage": "https://github.com/hyk51594176/vue-iframe-message",
+  "author": "1514582970@qq.com",
+  "homepage": "https://github.com/phpmicroservice/vue-iframe-message",
   "repository": {
     "type": "git",
-    "url": "git@github.com:hyk51594176/vue-iframe-message.git"
+    "url": "git@github.com:phpmicroservice/vue-iframe-message.git"
   },
   "license": "ISC",
   "devDependencies": {
